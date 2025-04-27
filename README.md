@@ -65,3 +65,5 @@ pnpm install
 pnpm run dev
 ```
 
+## git rebase 
+refer from: https://github.com/quangvantiepp/learn-fe-2025/blob/master/documents/git_rebase.md
